@@ -1,2 +1,0 @@
-# schoolChain
-Created with CodeSandbox
